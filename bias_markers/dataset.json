@@ -1,0 +1,3195 @@
+[
+  {
+    "original_text": "Your report was too brief and missed many important points.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Your report covers the main ideas; adding more details on key points would strengthen it.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "I think you didn’t put enough effort into the research.",
+    "bias_label": "confirmation_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "The research you conducted is a good start; expanding it further would improve the quality.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "Your slides were confusing and hard to follow.",
+    "bias_label": "negativity_bias",
+    "emotion": "confusion",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "The slides have useful content; organizing them more clearly would help the audience follow better.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You always take the lead and don’t listen to others’ ideas.",
+    "bias_label": "attribution_bias",
+    "emotion": "annoyance",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "You show great leadership skills; encouraging team input more could enhance collaboration.",
+    "evaluation": {"clarity_score": 4, "empathy_score": 4, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "Your coding is sloppy and full of errors.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "There are some bugs in the code; reviewing and testing carefully will improve its quality.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "I don’t agree with your approach; it doesn’t make sense.",
+    "bias_label": "confirmation_bias",
+    "emotion": "disagreement",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Your approach is interesting; considering alternative methods might strengthen the project.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You didn’t contribute much to the group work.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Your contributions are valuable; increasing participation could help the team achieve more.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "The project is boring and lacks creativity.",
+    "bias_label": "negativity_bias",
+    "emotion": "boredom",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "The project has a solid foundation; adding creative elements could make it more engaging.",
+    "evaluation": {"clarity_score": 4, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You are too slow in completing your tasks.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Improving task completion speed will benefit the whole team; let's find ways to support each other.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "I think your analysis is shallow and unconvincing.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Your analysis covers important points; deepening it with more evidence would make it stronger.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You always interrupt others during meetings.",
+    "bias_label": "attribution_bias",
+    "emotion": "annoyance",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Your enthusiasm is appreciated; allowing others to finish their thoughts can improve communication.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your writing is unclear and hard to understand.",
+    "bias_label": "negativity_bias",
+    "emotion": "confusion",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Clarifying your writing will help convey your ideas more effectively; consider structuring your points clearly.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You always want to do things your own way.",
+    "bias_label": "attribution_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Your ideas bring valuable perspectives; collaborating and considering others’ opinions can enhance results.",
+    "evaluation": {"clarity_score": 4, "empathy_score": 4, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "Your code never works on the first try.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Debugging is a key part of coding; refining your code with thorough testing will improve success rates.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "I don’t think you understand the topic well.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "You have grasped the basics; reviewing some concepts more deeply could help solidify your understanding.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You always arrive late to team meetings.",
+    "bias_label": "negativity_bias",
+    "emotion": "annoyance",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Punctuality helps team coordination; making an effort to join meetings on time will improve teamwork.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your presentation skills need a lot of improvement.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Your presentation has strong points; practicing delivery and clarity can make it even better.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You didn’t follow the project guidelines properly.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Ensuring the project guidelines are followed closely will help meet the expected outcomes effectively.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re not contributing your fair share to the project.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Your involvement is important; increasing your contributions will strengthen the team’s success.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "Your ideas are unrealistic and won’t work.",
+    "bias_label": "negativity_bias",
+    "emotion": "skepticism",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Some ideas could be challenging; exploring practical aspects might help refine them.",
+    "evaluation": {"clarity_score": 4, "empathy_score": 4, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "You don’t listen to feedback from others.",
+    "bias_label": "attribution_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Being open to feedback can improve your work; considering others’ suggestions will benefit the team.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "The project lacks a clear direction because of your decisions.",
+    "bias_label": "attribution_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Clarifying project goals and aligning decisions with the team can help maintain clear direction.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "Your work is always late and causes delays.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Timely submissions are important; managing deadlines better will improve team progress.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your design choices are poor and look unprofessional.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Improving design elements with attention to detail can enhance the professionalism of your work.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t take responsibility for your mistakes.",
+    "bias_label": "attribution_bias",
+    "emotion": "annoyance",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Acknowledging mistakes is a strength; taking responsibility will foster trust within the team.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your arguments are weak and unconvincing.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Strengthening your arguments with supporting evidence will make them more persuasive.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re not open to new ideas from the group.",
+    "bias_label": "attribution_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Being receptive to new ideas can lead to better outcomes; try considering different perspectives.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your feedback is always too harsh and discouraging.",
+    "bias_label": "negativity_bias",
+    "emotion": "hurt",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Providing feedback with a positive tone can motivate others and improve team morale.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t follow through on your commitments.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Following through on commitments builds trust; working on reliability will benefit the team.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your explanations are confusing and hard to understand.",
+    "bias_label": "negativity_bias",
+    "emotion": "confusion",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Simplifying your explanations and using clear examples can help others understand better.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t support other team members when they struggle.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Supporting teammates during challenges fosters a stronger team dynamic; offering help will be appreciated.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your contribution is minimal compared to others.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Increasing your contributions can have a big impact on the team’s success.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your attitude is negative and brings down the group morale.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Maintaining a positive attitude can boost group morale and motivation.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t take initiative in group activities.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Taking initiative can help move the project forward and show leadership skills.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  }
+]
+
+{
+  "original_text": "You’re not open to new ideas from the group.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Being receptive to new ideas can lead to better outcomes; try considering different perspectives.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You always miss deadlines and hold the team back.",
+  "bias_label": "fundamental_attribution_error",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Improving time management could help you meet deadlines and support the team’s progress.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You never speak up in meetings.",
+  "bias_label": "confirmation_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Sharing your ideas during meetings can greatly enrich the team’s discussions.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You tend to interrupt others, which is disrespectful.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Listening carefully and waiting for others to finish can improve communication and respect.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t care about the quality of your work.",
+  "bias_label": "negativity_bias",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Focusing more on the quality of your work will benefit both you and the team.",
+  "evaluation": {"clarity_score": 4, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You never take responsibility for mistakes.",
+  "bias_label": "fundamental_attribution_error",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Taking ownership of mistakes shows maturity and encourages learning.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "Your reports are always incomplete and messy.",
+  "bias_label": "negativity_bias",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Ensuring your reports are complete and well-organized will improve clarity for everyone.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t listen to others’ opinions.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Valuing others’ perspectives can foster better collaboration and understanding.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You always come late and disrupt the team.",
+  "bias_label": "fundamental_attribution_error",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Arriving on time helps keep the team organized and respects everyone’s schedule.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You avoid difficult tasks and leave them to others.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Taking on challenging tasks can help you grow and contribute more to the team.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+}
+{
+  "original_text": "You don’t follow the project guidelines properly.",
+  "bias_label": "confirmation_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Reviewing the project guidelines carefully will help align your work with team expectations.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You rarely contribute useful ideas.",
+  "bias_label": "negativity_bias",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Sharing your ideas more often can bring fresh perspectives to the project.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You are always distracted during group work.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Focusing during group sessions will help the whole team stay on track.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "Your coding skills are weak compared to others.",
+  "bias_label": "social_comparison_bias",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Continuing to practice coding will strengthen your skills and benefit the project.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You ignore feedback from teammates.",
+  "bias_label": "confirmation_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Considering teammates’ feedback can improve your contributions and teamwork.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t prepare enough for presentations.",
+  "bias_label": "negativity_bias",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Preparing well for presentations will boost your confidence and impact.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You always dominate the discussions and don’t let others speak.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Encouraging everyone to share their thoughts can lead to richer discussions.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "Your work is sloppy and full of errors.",
+  "bias_label": "negativity_bias",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Careful review of your work can reduce errors and improve overall quality.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You lack motivation and don’t contribute enough.",
+  "bias_label": "fundamental_attribution_error",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Finding ways to stay motivated can help increase your contributions to the team.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t communicate clearly with the group.",
+  "bias_label": "attribution_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Improving communication skills will enhance group understanding and collaboration.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You tend to procrastinate and delay your tasks.",
+  "bias_label": "confirmation_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Managing time effectively can help you complete tasks more promptly.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t seem interested in the project goals.",
+  "bias_label": "negativity_bias",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Engaging more with the project goals can enhance your involvement and impact.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You often interrupt others while they’re talking.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Listening fully before responding shows respect and fosters better teamwork.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "Your ideas lack originality.",
+  "bias_label": "negativity_bias",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Exploring diverse sources can inspire more original and creative ideas.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You don’t ask for help even when you’re stuck.",
+  "bias_label": "attribution_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Asking for help when needed can accelerate learning and progress.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t respect deadlines.",
+  "bias_label": "fundamental_attribution_error",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Adhering to deadlines helps the team stay on schedule and reduces stress.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You rarely volunteer for responsibilities.",
+  "bias_label": "confirmation_bias",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Taking initiative to volunteer can show leadership and commitment.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "Your presentations are hard to follow.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Organizing your presentation clearly will help the audience understand better.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You don’t share your progress regularly.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Regularly updating the team on your progress keeps everyone informed and aligned.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You avoid working with certain team members.",
+  "bias_label": "fundamental_attribution_error",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Collaborating with all team members builds trust and enhances results.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+}
+{
+  "original_text": "You tend to rush through your tasks without attention to detail.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Taking your time to focus on details can improve the quality of your work.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You seem unwilling to take responsibility for mistakes.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Owning mistakes is a great opportunity to learn and grow as a team member.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "Your ideas are often ignored because you don’t explain them well.",
+  "bias_label": "confirmation_bias",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Clarifying your ideas more clearly will help others understand and consider them.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t listen to others during group meetings.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Active listening during meetings improves collaboration and team cohesion.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You procrastinate and leave your part until the last minute.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Starting tasks earlier will reduce stress and improve your contribution quality.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You often reject new ideas without considering them.",
+  "bias_label": "confirmation_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Keeping an open mind toward new ideas can lead to innovative solutions.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t contribute much during brainstorming sessions.",
+  "bias_label": "negativity_bias",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Your contributions during brainstorming could bring valuable perspectives.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You are resistant to feedback and don’t change your approach.",
+  "bias_label": "confirmation_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Being open to feedback helps improve your work and team outcomes.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t help the team when others are overwhelmed.",
+  "bias_label": "fundamental_attribution_error",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Supporting teammates during busy times strengthens team success.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You always want things done your way and ignore others’ input.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Considering different approaches can lead to better team decisions.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t provide updates on your progress regularly.",
+  "bias_label": "confirmation_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Regular updates help keep the team informed and coordinated.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "Your work lacks attention to detail, causing delays.",
+  "bias_label": "negativity_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Focusing on details can help avoid delays and improve quality.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t respect the opinions of quieter team members.",
+  "bias_label": "fundamental_attribution_error",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Valuing all opinions fosters a more inclusive and effective team.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You rarely take initiative to solve problems.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Taking initiative can demonstrate leadership and benefit the team.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You often blame others when things go wrong.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Focusing on solutions instead of blame helps the team move forward.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "Your contributions don’t align well with the team’s objectives.",
+  "bias_label": "confirmation_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Aligning your work with team goals will strengthen overall outcomes.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t acknowledge your teammates’ efforts enough.",
+  "bias_label": "negativity_bias",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Recognizing others’ contributions builds team morale and motivation.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You often submit work late, affecting the team’s schedule.",
+  "bias_label": "fundamental_attribution_error",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Submitting work on time supports the team’s schedule and success.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You resist changes in the project plan without valid reasons.",
+  "bias_label": "confirmation_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Being adaptable to changes helps the team stay flexible and effective.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You often speak over others in meetings.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Allowing others to finish speaking improves communication and respect.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+}
+{
+  "original_text": "You rarely ask questions when unclear about tasks.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Asking questions when unclear can improve understanding and outcomes.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t make an effort to resolve conflicts within the team.",
+  "bias_label": "fundamental_attribution_error",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Engaging in conflict resolution helps maintain a positive team environment.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You seem uninterested during team discussions.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Showing interest during discussions encourages participation and collaboration.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You don’t adapt your communication style to the audience.",
+  "bias_label": "confirmation_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Adapting communication style improves clarity and understanding for all.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You tend to dominate conversations and overshadow others.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Balancing speaking time helps everyone contribute and feel valued.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You often miss deadlines, affecting project progress.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Meeting deadlines helps keep the project on track and supports the team.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t take feedback seriously and dismiss suggestions.",
+  "bias_label": "confirmation_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Considering feedback thoughtfully can enhance your contributions.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You rarely collaborate and prefer to work alone.",
+  "bias_label": "negativity_bias",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Collaborating more can enrich ideas and strengthen team bonds.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You get defensive when others offer constructive criticism.",
+  "bias_label": "confirmation_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Being open to constructive criticism fosters growth and improvement.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t prepare adequately for team meetings.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Preparing for meetings helps make discussions more productive.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You interrupt others frequently during discussions.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Allowing others to finish speaking encourages respectful communication.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You avoid taking on challenging tasks.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Accepting challenges can help you develop new skills and confidence.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You don’t support team decisions openly.",
+  "bias_label": "fundamental_attribution_error",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Backing team decisions shows commitment and unity.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You often focus on your own tasks without coordinating with the team.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Coordinating with teammates ensures alignment and smooth progress.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You rarely share useful resources or information.",
+  "bias_label": "negativity_bias",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Sharing resources can help the whole team perform better.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You ignore deadlines and expect the team to adjust.",
+  "bias_label": "fundamental_attribution_error",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Respecting deadlines helps the entire team meet project goals.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t acknowledge mistakes when they happen.",
+  "bias_label": "confirmation_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Recognizing mistakes is an important step toward improvement.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t contribute ideas during planning sessions.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Sharing your ideas in planning helps the team make better decisions.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t keep track of team decisions and action points.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Documenting decisions helps ensure everyone stays aligned.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You avoid communicating problems until they become urgent.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Communicating issues early allows the team to address them promptly.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+}
+{
+  "original_text": "You often ignore others’ opinions during group discussions.",
+  "bias_label": "confirmation_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Listening to diverse opinions can lead to better group decisions.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You rarely follow through on assigned responsibilities.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Completing assigned tasks supports the team’s overall success.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You tend to blame others when things go wrong.",
+  "bias_label": "fundamental_attribution_error",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Taking shared responsibility can improve team trust and collaboration.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You resist changing your approach even when it’s not effective.",
+  "bias_label": "confirmation_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Being open to change can lead to more effective teamwork.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t acknowledge team members’ contributions.",
+  "bias_label": "negativity_bias",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Recognizing others’ efforts fosters a positive team environment.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You frequently delay your portion of the work.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Timely contributions keep the project moving smoothly.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You seem uninterested in receiving peer feedback.",
+  "bias_label": "confirmation_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Being open to feedback helps personal and team growth.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You interrupt team members when they are explaining.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Allowing others to finish helps maintain respectful communication.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t take initiative to help when the team is stuck.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Offering help proactively supports team progress and morale.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You often forget to communicate changes in your work.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Keeping the team informed about changes ensures alignment.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You avoid discussing problems until it’s too late.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Raising issues early helps find timely solutions.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t respect deadlines and disrupt the team’s schedule.",
+  "bias_label": "negativity_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Respecting deadlines supports the entire team’s planning.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You dismiss others’ suggestions without proper consideration.",
+  "bias_label": "confirmation_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Considering all suggestions encourages diverse perspectives.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You rarely engage in team planning sessions.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Active participation in planning helps achieve shared goals.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You don’t communicate effectively when working remotely.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Clear communication is vital for remote teamwork success.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You rarely ask for help even when struggling.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Asking for help when needed strengthens team collaboration.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You focus on problems rather than solutions.",
+  "bias_label": "negativity_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Focusing on solutions can drive positive team progress.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t recognize the strengths of other team members.",
+  "bias_label": "negativity_bias",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Acknowledging strengths boosts team morale and effectiveness.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You avoid responsibility when mistakes occur.",
+  "bias_label": "fundamental_attribution_error",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Owning up to mistakes is important for trust and improvement.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t share your knowledge with the team.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Sharing knowledge helps the team grow and succeed.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You are hesitant to express your ideas openly.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Expressing ideas openly contributes to richer discussions.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t adapt well to changes in project scope.",
+  "bias_label": "confirmation_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Flexibility with changes helps the team stay on_
+{
+  "original_text": "You often avoid taking responsibility for group tasks.",
+  "bias_label": "fundamental_attribution_error",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Taking responsibility helps the team progress smoothly.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don't communicate clearly which causes confusion.",
+  "bias_label": "negativity_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Clear communication can prevent misunderstandings and help the team.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You tend to reject ideas without giving them a fair chance.",
+  "bias_label": "confirmation_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Considering all ideas encourages innovation and team cohesion.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You rarely participate in discussions, making teamwork harder.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Active participation strengthens team collaboration and results.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You delay tasks which slows the whole group down.",
+  "bias_label": "negativity_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Timely task completion supports the group’s momentum.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don't respect others’ ideas during meetings.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Respecting all ideas promotes a healthy team environment.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You resist working with others and prefer to work alone.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Collaborating with teammates can enrich the project outcome.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You tend to get defensive when receiving feedback.",
+  "bias_label": "confirmation_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Receiving feedback openly supports personal and team growth.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t keep the team updated about your progress.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Regular updates keep everyone informed and aligned.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You interrupt others while they are speaking.",
+  "bias_label": "attribution_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Listening fully before responding shows respect and encourages dialogue.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You tend to focus only on your own tasks without considering the team.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Keeping the team’s goals in mind benefits everyone’s success.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+},
+{
+  "original_text": "You don’t ask for help when you need it.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Asking for help can improve efficiency and teamwork.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You avoid giving feedback to your teammates.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Providing constructive feedback helps the whole team improve.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t adapt well to project changes.",
+  "bias_label": "confirmation_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Being flexible helps the team successfully navigate changes.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You focus on problems more than on solutions.",
+  "bias_label": "negativity_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Focusing on solutions drives the team forward.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t recognize the efforts of others.",
+  "bias_label": "negativity_bias",
+  "emotion": "disappointment",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Acknowledging others’ efforts encourages motivation.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You avoid conflict instead of addressing issues directly.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Addressing conflicts respectfully helps find constructive solutions.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t share important information with the group.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Sharing important updates keeps the team coordinated.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You ignore deadlines and cause delays.",
+  "bias_label": "negativity_bias",
+  "emotion": "frustration",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Meeting deadlines helps the entire team stay on schedule.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+},
+{
+  "original_text": "You don’t contribute ideas in group brainstorming.",
+  "bias_label": "negativity_bias",
+  "emotion": "concern",
+  "instruction": "make it more constructive and balanced",
+  "revised_text": "Sharing your ideas can spark creativity and innovation.",
+  "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+}
+[
+  {
+    "original_text": "You’re not open to new ideas from the group.",
+    "bias_label": "attribution_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Being receptive to new ideas can lead to better outcomes; try considering different perspectives.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "I don’t think your approach will work at all.",
+    "bias_label": "confirmation_bias",
+    "emotion": "skepticism",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Your approach has potential, though it might be worth exploring alternative options as well.",
+    "evaluation": {"clarity_score": 4, "empathy_score": 4, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "You always ignore what I say during meetings.",
+    "bias_label": "personalization_bias",
+    "emotion": "anger",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Sometimes it feels like my ideas aren’t fully considered; I’d appreciate more dialogue around them.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your code is a mess and will cause problems.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "The code could benefit from some cleanup to improve maintainability and reduce issues.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You never meet the deadlines on time.",
+    "bias_label": "overgeneralization",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Meeting deadlines consistently is important; let's discuss any challenges you face to improve timing.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "That idea is stupid and won’t work.",
+    "bias_label": "negativity_bias",
+    "emotion": "disdain",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "I have some concerns about the idea; maybe we can refine it to better suit our goals.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You didn’t do your part again.",
+    "bias_label": "attribution_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "It seems like some tasks are incomplete; let's coordinate to ensure everything is on track.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your presentation was boring and unprofessional.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "With some adjustments, your presentation could be more engaging and polished.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "You clearly don’t understand the project requirements.",
+    "bias_label": "attribution_bias",
+    "emotion": "annoyance",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "There seems to be some confusion about the project requirements; let's clarify together.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You are dragging the whole team down.",
+    "bias_label": "personalization_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "I think we can all work together to improve team progress and support each other better.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re always late to meetings.",
+    "bias_label": "overgeneralization",
+    "emotion": "displeasure",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Punctuality helps meetings run smoothly; please try to join on time whenever possible.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "That was a terrible decision.",
+    "bias_label": "negativity_bias",
+    "emotion": "disapproval",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "There may be better options to consider for future decisions.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t care about the project.",
+    "bias_label": "attribution_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "It feels like your engagement could improve; how can we support you better?",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You make too many mistakes.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Let's review the process together to minimize errors moving forward.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You should listen more.",
+    "bias_label": "directive_bias",
+    "emotion": "mild frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Active listening can improve collaboration; let's work on this skill together.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your suggestions don’t add any value.",
+    "bias_label": "negativity_bias",
+    "emotion": "disdain",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Let's explore how your ideas might contribute more effectively to the project goals.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "You never finish your tasks properly.",
+    "bias_label": "overgeneralization",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Completing tasks thoroughly is key; how can we help ensure this happens?",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re the reason this project is failing.",
+    "bias_label": "personalization_bias",
+    "emotion": "anger",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "We need to identify challenges together to improve project outcomes.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your work is always subpar.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Let's focus on improving quality and meeting standards consistently.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t contribute anything meaningful.",
+    "bias_label": "personalization_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Your contributions matter; let's find ways to align them more closely with team goals.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You are too slow to respond.",
+    "bias_label": "negativity_bias",
+    "emotion": "impatience",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Timely responses improve teamwork; please try to reply more promptly when possible.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "You are not a team player.",
+    "bias_label": "personalization_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Let's discuss how we can collaborate better to strengthen our team efforts.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your ideas are always off-topic.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Focusing on relevant topics will help our discussions stay productive.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "You don’t respect deadlines.",
+    "bias_label": "overgeneralization",
+    "emotion": "displeasure",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Meeting deadlines is important; let's work together to improve time management.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You never take responsibility.",
+    "bias_label": "personalization_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Taking ownership helps the team succeed; let's support you in this process.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You talk too much during meetings.",
+    "bias_label": "negativity_bias",
+    "emotion": "mild frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Balancing speaking time ensures everyone can contribute equally.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "You don’t follow instructions properly.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Following instructions carefully will help improve results.",
+    "evaluation": {"clarity_score": 5, "em
+[
+  {
+    "original_text": "You don’t follow instructions properly.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Following instructions carefully will help improve results and avoid confusion.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You never support your teammates.",
+    "bias_label": "overgeneralization",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Supporting teammates strengthens the group; let’s find ways to encourage collaboration.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your attitude is negative and brings everyone down.",
+    "bias_label": "personalization_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "A positive attitude can uplift the team; let’s work together to foster this environment.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You always complain instead of helping.",
+    "bias_label": "negativity_bias",
+    "emotion": "annoyance",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Sharing concerns is important, and balancing it with proactive help benefits the team.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re not contributing enough to the project.",
+    "bias_label": "attribution_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Increasing your contributions will help the project succeed; let’s identify opportunities for involvement.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t have any good ideas.",
+    "bias_label": "negativity_bias",
+    "emotion": "disdain",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Your ideas have potential; let’s explore them further to enhance their impact.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "You never ask for help when you need it.",
+    "bias_label": "overgeneralization",
+    "emotion": "concern",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Remember, asking for help is a strength and can improve outcomes; feel free to reach out.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your ideas are too simplistic for this project.",
+    "bias_label": "negativity_bias",
+    "emotion": "skepticism",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Your ideas could be developed further to better address the project’s complexity.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don't seem committed to the team.",
+    "bias_label": "attribution_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Your engagement is important for the team’s success; how can we support your commitment?",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You make the same mistakes over and over.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Let’s identify ways to learn from past mistakes and improve moving forward.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You always dominate the conversation.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Allowing space for others to speak will help the team benefit from diverse perspectives.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You are never prepared for meetings.",
+    "bias_label": "overgeneralization",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Preparation improves meeting productivity; let’s discuss ways to help you get ready.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t respect other people’s opinions.",
+    "bias_label": "personalization_bias",
+    "emotion": "annoyance",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Respecting all viewpoints encourages a healthy team environment; let’s work on this together.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re lazy and don’t do your share.",
+    "bias_label": "personalization_bias",
+    "emotion": "anger",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Everyone's effort is important; let’s discuss how you can contribute more effectively.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your work is careless and full of errors.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Improving attention to detail will reduce errors and enhance quality.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You never listen to feedback.",
+    "bias_label": "overgeneralization",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Considering feedback carefully can help improve your work and skills.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re always making excuses.",
+    "bias_label": "negativity_bias",
+    "emotion": "annoyance",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Addressing challenges directly will help overcome obstacles more effectively.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You lack initiative.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Taking more initiative can increase your impact on the project’s success.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t communicate clearly.",
+    "bias_label": "negativity_bias",
+    "emotion": "concern",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Improving communication skills will help avoid misunderstandings and improve teamwork.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t care about quality.",
+    "bias_label": "attribution_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Focusing on quality is important; let’s work on ways to enhance your contributions.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You never accept responsibility for mistakes.",
+    "bias_label": "personalization_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Owning mistakes helps the team grow; let’s work on accountability together.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You are too argumentative.",
+    "bias_label": "negativity_bias",
+    "emotion": "annoyance",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Constructive discussions help resolve issues; let’s focus on respectful dialogue.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t meet deadlines.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Meeting deadlines is key; let’s plan together to improve time management.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You ignore team goals.",
+    "bias_label": "attribution_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Aligning with team goals helps everyone succeed; let’s clarify expectations.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You tend to procrastinate.",
+    "bias_label": "negativity_bias",
+    "emotion": "concern",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Addressing procrastination can improve productivity; how can I support you?",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t take feedback seriously.",
+    "bias_label": "overgeneralization",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Taking feedback seriously helps growth; let’s discuss how to apply it effectively.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t collaborate well with others.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Improving collaboration will enhance team success; let’s find ways to support this.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You lack focus during meetings.",
+    "bias_label": "negativity_bias",
+    "emotion": "concern",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Maintaining focus during meetings improves outcomes; what might help you stay engaged?",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re resistant to change.",
+    "bias_label": "personalization_bias",
+    "emotion": "concern",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Embracing change can open new opportunities; let’s explore ways to adapt more easily.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You make excuses instead of solving problems.",
+    "bias_label": "negativity_bias",
+    "emotion": "annoyance",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Focusing on solutions rather than excuses leads to better results.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re not a team player.",
+    "bias_label": "personalization_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Being a team player strengthens group success; let’s work on ways to enhance your teamwork.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You often interrupt others.",
+    "bias_label": "negativity_bias",
+    "emotion": "annoyance",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Allowing others to finish speaking fosters better communication.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t accept constructive criticism.",
+    "bias_label": "overgeneralization",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Accepting constructive criticism is valuable for personal and professional growth.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re careless with details.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Paying attention to details will enhance the quality of your work.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t seem motivated.",
+    "bias_label": "personalization_bias",
+    "emotion": "concern",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Finding motivation can improve your engagement; how can we support you?",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re not open to new ideas.",
+    "bias_label": "negativity_bias",
+    "emotion": "concern",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Being open to new ideas can foster innovation and growth.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re too passive during discussions.",
+    "bias_label": "negativity_bias",
+    "emotion": "concern",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Active participation during discussions enriches team outcomes.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+[
+  {
+    "original_text": "You’re careless with details.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Paying attention to details will enhance the quality of your work.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your code is full of errors.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it encouraging and helpful",
+    "revised_text": "Let’s review the code together to identify and fix the errors.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You always miss deadlines.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it supportive and motivating",
+    "revised_text": "Improving time management could help meet deadlines more consistently.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your presentation was boring.",
+    "bias_label": "negativity_bias",
+    "emotion": "disinterest",
+    "instruction": "make it constructive with suggestions",
+    "revised_text": "Including more engaging visuals and examples could make your presentation more captivating.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re bad at explaining things.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it encouraging and constructive",
+    "revised_text": "Clarifying concepts step-by-step might help others understand better.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  }
+]
+[
+  {
+    "original_text": "You never listen to others’ ideas.",
+    "bias_label": "attribution_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Listening more to different ideas could improve team collaboration.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your coding style is terrible.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it polite and helpful",
+    "revised_text": "Consistent coding style would make your code easier to read and maintain.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re slowing down the whole team.",
+    "bias_label": "attribution_bias",
+    "emotion": "anger",
+    "instruction": "make it supportive and encouraging",
+    "revised_text": "Finding ways to improve your pace could help the team progress more smoothly.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your suggestions don’t make any sense.",
+    "bias_label": "confirmation_bias",
+    "emotion": "frustration",
+    "instruction": "make it respectful and open-minded",
+    "revised_text": "Could you clarify your suggestions? I want to understand your perspective better.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You always interrupt during meetings.",
+    "bias_label": "negativity_bias",
+    "emotion": "annoyance",
+    "instruction": "make it polite and constructive",
+    "revised_text": "Waiting for your turn to speak could help meetings run more smoothly.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t understand the project goals.",
+    "bias_label": "attribution_bias",
+    "emotion": "frustration",
+    "instruction": "make it supportive and clarifying",
+    "revised_text": "Let’s review the project goals together to ensure we’re on the same page.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your part of the project is always late.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it motivating and supportive",
+    "revised_text": "Timely completion of your tasks will help keep the project on track.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You never contribute useful ideas.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it encouraging and specific",
+    "revised_text": "Sharing more ideas could benefit the team and enhance our outcomes.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t care about the project quality.",
+    "bias_label": "attribution_bias",
+    "emotion": "anger",
+    "instruction": "make it more balanced and respectful",
+    "revised_text": "Focusing on quality in your work would positively impact the project results.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your explanations confuse everyone.",
+    "bias_label": "negativity_bias",
+    "emotion": "confusion",
+    "instruction": "make it constructive and helpful",
+    "revised_text": "Clarifying your explanations could help the team understand better.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re always negative in discussions.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it encouraging and constructive",
+    "revised_text": "Adopting a more positive approach in discussions could improve team morale.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t put enough effort into your tasks.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it motivating and supportive",
+    "revised_text": "Increasing effort on your tasks will strengthen the team’s overall performance.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your feedback is always harsh.",
+    "bias_label": "negativity_bias",
+    "emotion": "hurt",
+    "instruction": "make it kinder and more constructive",
+    "revised_text": "Providing feedback in a gentler tone could help others accept it better.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You ignore others’ opinions.",
+    "bias_label": "attribution_bias",
+    "emotion": "anger",
+    "instruction": "make it more respectful and encouraging",
+    "revised_text": "Considering others’ opinions will strengthen team collaboration.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t follow the project plan.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more supportive and solution-focused",
+    "revised_text": "Sticking to the project plan will help us achieve our goals efficiently.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You ask too many unnecessary questions.",
+    "bias_label": "negativity_bias",
+    "emotion": "annoyance",
+    "instruction": "make it more constructive and encouraging",
+    "revised_text": "Asking relevant questions can deepen our understanding and improve outcomes.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You never admit your mistakes.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more supportive and encouraging",
+    "revised_text": "Acknowledging mistakes helps us learn and grow as a team.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re too aggressive during debates.",
+    "bias_label": "negativity_bias",
+    "emotion": "discomfort",
+    "instruction": "make it more respectful and constructive",
+    "revised_text": "Maintaining calm and respectful debates encourages better team communication.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re not contributing enough to the project.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it motivating and supportive",
+    "revised_text": "Increasing your contributions will benefit the whole team.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t respect the team’s decisions.",
+    "bias_label": "attribution_bias",
+    "emotion": "frustration",
+    "instruction": "make it more positive and encouraging",
+    "revised_text": "Respecting team decisions helps maintain harmony and progress.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  }
+]
+[
+  {
+    "original_text": "You always leave tasks unfinished.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more encouraging and supportive",
+    "revised_text": "Completing tasks fully will help the team meet its goals successfully.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your ideas are never practical.",
+    "bias_label": "confirmation_bias",
+    "emotion": "frustration",
+    "instruction": "make it more open-minded and constructive",
+    "revised_text": "Focusing on practicality could improve the implementation of your ideas.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t communicate clearly.",
+    "bias_label": "negativity_bias",
+    "emotion": "confusion",
+    "instruction": "make it more helpful and supportive",
+    "revised_text": "Improving communication clarity would benefit team understanding.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t take responsibility for mistakes.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more encouraging and supportive",
+    "revised_text": "Taking responsibility helps us all learn and improve as a team.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re too slow in completing your part.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it motivating and solution-focused",
+    "revised_text": "Working on improving speed will help the project stay on schedule.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re not a team player.",
+    "bias_label": "attribution_bias",
+    "emotion": "anger",
+    "instruction": "make it more constructive and encouraging",
+    "revised_text": "Engaging more with the team can enhance collaboration and results.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your work lacks creativity.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more positive and encouraging",
+    "revised_text": "Incorporating more creative ideas could strengthen your contributions.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You always miss deadlines.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more motivating and supportive",
+    "revised_text": "Meeting deadlines consistently will keep the project on track.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You never volunteer for tasks.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more encouraging and positive",
+    "revised_text": "Volunteering for tasks can help share the workload and build skills.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your ideas are always rejected.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more balanced and hopeful",
+    "revised_text": "Refining your ideas based on feedback can increase their acceptance.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re not respectful in discussions.",
+    "bias_label": "negativity_bias",
+    "emotion": "discomfort",
+    "instruction": "make it more respectful and constructive",
+    "revised_text": "Maintaining respect during discussions fosters a positive environment.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You always blame others for mistakes.",
+    "bias_label": "attribution_bias",
+    "emotion": "frustration",
+    "instruction": "make it more supportive and encouraging",
+    "revised_text": "Focusing on solutions rather than blame helps improve team dynamics.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You ignore feedback from others.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more open and encouraging",
+    "revised_text": "Considering feedback can help improve your contributions significantly.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t put effort into team meetings.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more motivating and positive",
+    "revised_text": "Active participation in meetings helps the team stay aligned.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re often distracted during work.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more supportive and solution-focused",
+    "revised_text": "Minimizing distractions will improve your productivity and focus.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re too critical of others’ work.",
+    "bias_label": "negativity_bias",
+    "emotion": "hurt",
+    "instruction": "make it more constructive and empathetic",
+    "revised_text": "Offering constructive feedback can help others improve without feeling discouraged.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t accept help from teammates.",
+    "bias_label": "attribution_bias",
+    "emotion": "frustration",
+    "instruction": "make it more collaborative and encouraging",
+    "revised_text": "Accepting help when needed strengthens teamwork and outcomes.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re always late to meetings.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more motivating and constructive",
+    "revised_text": "Being punctual for meetings respects everyone’s time and keeps us on schedule.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t contribute ideas during brainstorming.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more encouraging and positive",
+    "revised_text": "Sharing ideas in brainstorming sessions can lead to innovative solutions.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re resistant to changes in the project.",
+    "bias_label": "confirmation_bias",
+    "emotion": "frustration",
+    "instruction": "make it more open-minded and positive",
+    "revised_text": "Being open to change can improve the project’s success.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  }
+]
+[
+  {
+    "original_text": "You don’t follow the project guidelines.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more helpful and encouraging",
+    "revised_text": "Following project guidelines closely will improve our overall results.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your presentation was boring.",
+    "bias_label": "negativity_bias",
+    "emotion": "disinterest",
+    "instruction": "make it more constructive and motivating",
+    "revised_text": "Adding more engaging elements could make your presentation even better.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t listen to other people’s opinions.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more supportive and encouraging",
+    "revised_text": "Listening carefully to others can help us work better as a team.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You always do the easy tasks.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more motivating and positive",
+    "revised_text": "Taking on more challenging tasks can help you grow and support the team better.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t double-check your work.",
+    "bias_label": "negativity_bias",
+    "emotion": "concern",
+    "instruction": "make it more encouraging and solution-focused",
+    "revised_text": "Double-checking your work helps prevent errors and improves quality.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You interrupt people too often.",
+    "bias_label": "negativity_bias",
+    "emotion": "annoyance",
+    "instruction": "make it more constructive and respectful",
+    "revised_text": "Waiting for others to finish speaking before sharing your ideas shows respect and improves communication.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t keep your promises.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more encouraging and motivating",
+    "revised_text": "Keeping promises builds trust and strengthens our teamwork.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You rely too much on others.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more supportive and encouraging",
+    "revised_text": "Building your skills will help you contribute more independently.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You forget important details.",
+    "bias_label": "negativity_bias",
+    "emotion": "concern",
+    "instruction": "make it more constructive and helpful",
+    "revised_text": "Paying attention to details can improve the accuracy of your work.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t ask for help when you need it.",
+    "bias_label": "negativity_bias",
+    "emotion": "concern",
+    "instruction": "make it more encouraging and supportive",
+    "revised_text": "Asking for help can make your work easier and improve team outcomes.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You avoid responsibility for difficult tasks.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more encouraging and motivating",
+    "revised_text": "Taking on challenging tasks will help you grow and contribute more to the team.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re not organized enough.",
+    "bias_label": "negativity_bias",
+    "emotion": "concern",
+    "instruction": "make it more helpful and constructive",
+    "revised_text": "Improving your organization can help you manage tasks more effectively.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t contribute enough to discussions.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more encouraging and positive",
+    "revised_text": "Sharing your thoughts in discussions can bring new perspectives and benefit the team.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t support your teammates.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more supportive and motivating",
+    "revised_text": "Supporting teammates strengthens our team and helps us all succeed.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re not open to new ideas.",
+    "bias_label": "confirmation_bias",
+    "emotion": "frustration",
+    "instruction": "make it more open-minded and encouraging",
+    "revised_text": "Being open to new ideas can lead to innovative solutions.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You rush through your work carelessly.",
+    "bias_label": "negativity_bias",
+    "emotion": "concern",
+    "instruction": "make it more constructive and supportive",
+    "revised_text": "Taking your time will improve the quality and accuracy of your work.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t use your time efficiently.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more motivating and helpful",
+    "revised_text": "Managing your time better can help you meet deadlines and reduce stress.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t share information with the team.",
+    "bias_label": "negativity_bias",
+    "emotion": "concern",
+    "instruction": "make it more encouraging and positive",
+    "revised_text": "Sharing important information keeps the team informed and aligned.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You’re not flexible when plans change.",
+    "bias_label": "confirmation_bias",
+    "emotion": "frustration",
+    "instruction": "make it more open-minded and encouraging",
+    "revised_text": "Being flexible with changes helps the team adapt and succeed.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t take initiative.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more motivating and positive",
+    "revised_text": "Taking initiative can demonstrate leadership and drive project progress.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  }
+]
+[
+  {
+    "original_text": "You don’t respond well to feedback.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more encouraging and constructive",
+    "revised_text": "Embracing feedback can help you improve and grow.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You ignore deadlines frequently.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more motivating and supportive",
+    "revised_text": "Meeting deadlines consistently will help the team stay on track.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You lack enthusiasm during meetings.",
+    "bias_label": "negativity_bias",
+    "emotion": "disinterest",
+    "instruction": "make it more positive and motivating",
+    "revised_text": "Showing enthusiasm can energize the team and encourage participation.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t clarify your ideas well.",
+    "bias_label": "negativity_bias",
+    "emotion": "confusion",
+    "instruction": "make it more constructive and helpful",
+    "revised_text": "Clarifying your ideas will help others understand your perspective better.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You get defensive too quickly.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more supportive and encouraging",
+    "revised_text": "Being open to discussion can improve communication and teamwork.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You rarely volunteer for tasks.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more motivating and positive",
+    "revised_text": "Volunteering for tasks can demonstrate your commitment and help the team.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You tend to blame others when things go wrong.",
+    "bias_label": "attribution_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Focusing on solutions together helps the team move forward effectively.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t share your workload fairly.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more encouraging and fair",
+    "revised_text": "Sharing workload fairly ensures everyone contributes and the project succeeds.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You ignore team members’ ideas.",
+    "bias_label": "confirmation_bias",
+    "emotion": "frustration",
+    "instruction": "make it more open and inclusive",
+    "revised_text": "Considering all team members’ ideas can lead to better decisions.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t prepare well for meetings.",
+    "bias_label": "negativity_bias",
+    "emotion": "concern",
+    "instruction": "make it more constructive and encouraging",
+    "revised_text": "Preparing for meetings helps you contribute more effectively.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You often get distracted during work.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more supportive and motivating",
+    "revised_text": "Minimizing distractions can improve your focus and productivity.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t communicate progress regularly.",
+    "bias_label": "negativity_bias",
+    "emotion": "concern",
+    "instruction": "make it more constructive and encouraging",
+    "revised_text": "Regular updates help the team stay aligned and informed.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You overreact to minor issues.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more calming and constructive",
+    "revised_text": "Keeping calm helps in finding effective solutions to challenges.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You hesitate to share your ideas.",
+    "bias_label": "negativity_bias",
+    "emotion": "concern",
+    "instruction": "make it more encouraging and supportive",
+    "revised_text": "Sharing your ideas can inspire creativity and progress.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t accept responsibility for mistakes.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more encouraging and accountable",
+    "revised_text": "Owning mistakes is an important step toward improvement.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You dismiss feedback without consideration.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more open-minded and constructive",
+    "revised_text": "Considering feedback carefully can enhance your work quality.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You struggle to meet team expectations.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more encouraging and supportive",
+    "revised_text": "Working on these areas will help you better meet team expectations.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+[
+  {
+    "original_text": "You’re careless with details.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Paying attention to details will enhance the quality of your work.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You never listen to others’ ideas.",
+    "bias_label": "attribution_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Considering others’ ideas could open new possibilities.",
+    "evaluation": {"clarity_score": 4, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your presentation was confusing and hard to follow.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Clarifying your points will help the audience understand better.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "You don’t care about the team’s goals.",
+    "bias_label": "fundamental_attribution_error",
+    "emotion": "anger",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Aligning with the team’s goals will strengthen collaboration.",
+    "evaluation": {"clarity_score": 4, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You always interrupt when others are speaking.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Listening fully before responding can improve communication.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your code is full of bugs.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Debugging carefully will improve your code quality.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "You never meet the deadlines.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Working on time management could help meet deadlines consistently.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You are too slow in completing tasks.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Improving task pacing can boost overall productivity.",
+    "evaluation": {"clarity_score": 4, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t contribute anything valuable.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Your unique perspectives can add value to the team.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "You’re always late to meetings.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Arriving on time can improve team coordination.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t take responsibility for mistakes.",
+    "bias_label": "fundamental_attribution_error",
+    "emotion": "anger",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Owning up to errors can build trust and help learning.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your ideas are always unrealistic.",
+    "bias_label": "confirmation_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Considering feasibility can help make your ideas actionable.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "You don’t communicate enough with the team.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Increasing communication can enhance team collaboration.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You tend to ignore feedback.",
+    "bias_label": "confirmation_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Being open to feedback can accelerate your growth.",
+    "evaluation": {"clarity_score": 4, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You seem uninterested during discussions.",
+    "bias_label": "fundamental_attribution_error",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Engaging actively in discussions can improve team outcomes.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your work lacks creativity.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Exploring new approaches could enhance creativity.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "You don’t follow the project guidelines.",
+    "bias_label": "negativity_bias",
+    "emotion": "anger",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Adhering to guidelines ensures project alignment.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You always blame others when things go wrong.",
+    "bias_label": "fundamental_attribution_error",
+    "emotion": "anger",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Focusing on solutions rather than blame helps team progress.",
+    "evaluation": {"clarity_score": 4, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You rarely participate in team activities.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Active participation will benefit both you and the team.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t meet the quality standards.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Improving attention to quality will strengthen your work.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "You’re too aggressive in discussions.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Maintaining respectful dialogue promotes better teamwork.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You often miss important details.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Focusing more on details will improve accuracy.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "You don’t handle criticism well.",
+    "bias_label": "confirmation_bias",
+    "emotion": "defensiveness",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Accepting constructive criticism can support your development.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "Your suggestions are usually impractical.",
+    "bias_label": "confirmation_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Evaluating feasibility can make your suggestions more effective.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 4}
+  },
+  {
+    "original_text": "You don’t seem committed to the project.",
+    "bias_label": "fundamental_attribution_error",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Demonstrating commitment can inspire the team.",
+    "evaluation": {"clarity_score": 4, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You lack leadership skills.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Developing leadership abilities can benefit your role.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t take initiative.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "re
+
+  {
+    "original_text": "You avoid difficult conversations.",
+    "bias_label": "negativity_bias",
+    "emotion": "concern",
+    "instruction": "make it more constructive and encouraging",
+    "revised_text": "Addressing difficult topics helps resolve issues and build trust.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You tend to dominate discussions.",
+    "bias_label": "negativity_bias",
+    "emotion": "annoyance",
+    "instruction": "make it more balanced and encouraging",
+    "revised_text": "Encouraging others to share helps create balanced discussions.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  },
+  {
+    "original_text": "You don’t follow up on assigned tasks.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more motivating and constructive",
+    "revised_text": "Following up on tasks ensures project progress and team reliability.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 4, "bias_mitigation_score": 5}
+  }
+]
+
+  {
+    "original_text": "You don’t follow through on your commitments.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Following through on commitments builds trust; let’s find ways to improve reliability.",
+    "evaluation": {"clarity_score": 5, "empathy_score": 5, "bias_mitigation_score": 5}
+  }
+]
+
+[
+  {
+    "original_text": "I think your approach is completely wrong and doesn’t make any sense.",
+    "bias_label": "confirmation_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "I see some areas where the approach could be improved to strengthen the argument.",
+    "evaluation": {
+      "clarity_score": 4,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "This section is terrible and shows you didn’t understand the basics.",
+    "bias_label": "impulsivity",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "This section could benefit from clearer explanations to better convey the basic concepts.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "Your results are irrelevant and don’t support your hypothesis at all.",
+    "bias_label": "negativity_bias",
+    "emotion": "skepticism",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "It would help to clarify how the results support the hypothesis or discuss potential limitations.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 4
+    }
+  }
+]
+
+[
+  {
+    "original_text": "Your approach is completely wrong and lacks any basis.",
+    "bias_label": "confirmation_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "There are some areas in your approach that could be improved with additional evidence.",
+    "evaluation": {
+      "clarity_score": 4,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "This part of your work is terrible and doesn't make sense.",
+    "bias_label": "negativity_bias",
+    "emotion": "anger",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "This section could benefit from clearer explanations to improve understanding.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "I don’t see how your results support the hypothesis.",
+    "bias_label": "skepticism",
+    "emotion": "confusion",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Clarifying the connection between your results and hypothesis could strengthen your argument.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "You clearly ignored important studies in this field.",
+    "bias_label": "overconfidence",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Including additional relevant studies could better contextualize your research.",
+    "evaluation": {
+      "clarity_score": 4,
+      "empathy_score": 4,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "Your explanation is confusing and unclear.",
+    "bias_label": "impulsivity",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Rephrasing this explanation may improve clarity and reader understanding.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "This methodology seems rushed and incomplete.",
+    "bias_label": "anchoring_bias",
+    "emotion": "skepticism",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Expanding on the methodology details could enhance the rigor of your study.",
+    "evaluation": {
+      "clarity_score": 4,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "Your results don’t matter and are irrelevant.",
+    "bias_label": "negativity_bias",
+    "emotion": "anger",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Discussing the implications of your results further could increase their relevance.",
+    "evaluation": {
+      "clarity_score": 4,
+      "empathy_score": 4,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "The paper is biased and lacks justification.",
+    "bias_label": "halo_effect",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Providing additional justification could strengthen your arguments and reduce perceived bias.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "You didn’t follow the correct procedures here.",
+    "bias_label": "confirmation_bias",
+    "emotion": "impatience",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Revisiting the procedures might help align the work with accepted standards.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "Your analysis is incomplete and lacks depth.",
+    "bias_label": "impulsivity",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Adding more detailed analysis would enhance the depth and insight of your work.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "I think this approach is pointless and won’t work.",
+    "bias_label": "confirmation_bias",
+    "emotion": "skepticism",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Exploring potential strengths and limitations could provide a balanced view of this approach.",
+    "evaluation": {
+      "clarity_score": 4,
+      "empathy_score": 5,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "The writing style is dull and boring.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Improving the writing style could increase engagement and clarity.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "Your conclusions don’t seem justified.",
+    "bias_label": "anchoring_bias",
+    "emotion": "confusion",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Clarifying how your data supports the conclusions would make them more convincing.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 5,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "This section is irrelevant and should be removed.",
+    "bias_label": "overconfidence",
+    "emotion": "impatience",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Reconsidering the relevance of this section could help clarify the focus of your work.",
+    "evaluation": {
+      "clarity_score": 4,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "The references are outdated and not useful.",
+    "bias_label": "availability_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Including more recent references may improve the study's context and relevance.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "You failed to address key points in your argument.",
+    "bias_label": "negativity_bias",
+    "emotion": "anger",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Addressing these key points could strengthen your overall argument.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "This figure is misleading and hard to understand.",
+    "bias_label": "impulsivity",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Revising the figure for clarity could help readers better interpret your data.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "Your hypotheses are unsupported and speculative.",
+    "bias_label": "confirmation_bias",
+    "emotion": "skepticism",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Providing more evidence could better support your hypotheses.",
+    "evaluation": {
+      "clarity_score": 4,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "This introduction is irrelevant and too long.",
+    "bias_label": "negativity_bias",
+    "emotion": "impatience",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Shortening and focusing the introduction could improve reader engagement.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "You missed important statistical tests here.",
+    "bias_label": "anchoring_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Including appropriate statistical tests would enhance the validity of your analysis.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 5,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "The language is too technical and inaccessible.",
+    "bias_label": "availability_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Simplifying the language could make the paper more accessible to a broader audience.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "Your dataset is too small to draw any conclusions.",
+    "bias_label": "overconfidence",
+    "emotion": "skepticism",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Discussing the limitations of the dataset size would provide valuable context for your conclusions.",
+    "evaluation": {
+      "clarity_score": 4,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "You repeated the same ideas several times unnecessarily.",
+    "bias_label": "impulsivity",
+    "emotion": "impatience",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Condensing repeated ideas could improve the flow of your text.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 5,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "The discussion lacks insight and is superficial.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Adding deeper analysis in the discussion would enhance the paper’s contribution.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "Your references are biased towards one viewpoint.",
+    "bias_label": "halo_effect",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Including diverse perspectives in your references could balance the argument.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 5,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "This conclusion is overstated and not supported.",
+    "bias_label": "overconfidence",
+    "emotion": "skepticism",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Tempering the conclusion to reflect the evidence would improve accuracy.",
+    "evaluation": {
+      "clarity_score": 4,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "Your writing contains many grammar mistakes.",
+    "bias_label": "impulsivity",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Proofreading your writing could reduce grammar errors and improve readability.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "You didn't clearly explain your assumptions.",
+    "bias_label": "confirmation_bias",
+    "emotion": "confusion",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Clearly stating your assumptions would help readers understand your reasoning.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 5,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "The graphs are unclear and hard to interpret.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Improving graph labels and clarity could help interpretation.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "This paragraph is off-topic and irrelevant.",
+    "bias_label": "overconfidence",
+    "emotion": "impatience",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Refocusing this paragraph to relate directly to the main topic would improve coherence.",
+    "evaluation": {
+      "clarity_score": 4,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "The experiments were poorly designed and executed.",
+    "bias_label": "anchoring_bias",
+    "emotion": "anger",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Providing more detail on experimental design and controls would strengthen your study.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "You rely too heavily on one theoretical framework.",
+    "bias_label": "halo_effect",
+    "emotion": "skepticism",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Considering additional theoretical perspectives could enrich your analysis.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 5,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "Your abstract doesn't summarize your work well.",
+    "bias_label": "impulsivity",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Revising the abstract to better capture key points would improve reader engagement.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "The paper lacks a clear research question.",
+    "bias_label": "confirmation_bias",
+    "emotion": "confusion",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Formulating a clear research question would improve the focus of your paper.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "The language is repetitive and monotonous.",
+    "bias_label": "negativity_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Varying language and sentence structure could enhance readability.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "Your citations are incomplete and inconsistent.",
+    "bias_label": "availability_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Checking and standardizing citations would improve professionalism.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "The conclusion introduces new ideas not discussed before.",
+    "bias_label": "anchoring_bias",
+    "emotion": "skepticism",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Keeping conclusions focused on discussed ideas would improve coherence.",
+    "evaluation": {
+      "clarity_score": 4,
+      "empathy_score": 5,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "The formatting is inconsistent and distracting.",
+    "bias_label": "impulsivity",
+    "emotion": "impatience",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Applying consistent formatting will enhance the paper’s professionalism.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 5,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "You ignore alternative explanations for your findings.",
+    "bias_label": "confirmation_bias",
+    "emotion": "skepticism",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Discussing alternative explanations could provide a more balanced perspective.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "The introduction repeats information from the abstract.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Avoiding repetition between abstract and introduction would improve flow.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "Your argument is one-sided and ignores contradictions.",
+    "bias_label": "halo_effect",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Addressing contradictory evidence would strengthen your argument.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 5,
+      "bias_mitigation_score": 5
+    }
+  }
+]
+[
+  {
+    "original_text": "Your conclusion is weak and unconvincing.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Reinforcing your conclusion with stronger evidence could make it more persuasive.",
+    "evaluation": {
+      "clarity_score": 4,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "The paper lacks coherence between sections.",
+    "bias_label": "negativity_bias",
+    "emotion": "criticism",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Improving transitions between sections may enhance overall coherence.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "Your writing style is too informal for an academic paper.",
+    "bias_label": "confirmation_bias",
+    "emotion": "frustration",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Adopting a more formal tone could better suit the academic context.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  },
+  {
+    "original_text": "You overgeneralize your findings.",
+    "bias_label": "confirmation_bias",
+    "emotion": "concern",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Considering limitations on the generalizability of your findings might improve accuracy.",
+    "evaluation": {
+      "clarity_score": 5,
+      "empathy_score": 4,
+      "bias_mitigation_score": 5
+    }
+  },
+  {
+    "original_text": "The figures are unclear and poorly labeled.",
+    "bias_label": "negativity_bias",
+    "emotion": "disappointment",
+    "instruction": "make it more constructive and balanced",
+    "revised_text": "Improving figure labels and clarity could help readers understand the data better.",
+    "evaluation": {
+      "clarity_score": 4,
+      "empathy_score": 5,
+      "bias_mitigation_score": 4
+    }
+  }
+]
+

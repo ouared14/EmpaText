@@ -1,0 +1,177 @@
+{
+  "common_linguistic_markers": [
+    {
+      "bias_type": "Absolutism",
+      "typical_markers": ["always", "never", "must", "cannot"]
+    },
+    {
+      "bias_type": "Excessive doubt",
+      "typical_markers": ["unclear if", "no evidence that"]
+    },
+    {
+      "bias_type": "Negative comparison",
+      "typical_markers": ["unlike others", "fails to"]
+    },
+    {
+      "bias_type": "Condescending tone",
+      "typical_markers": ["obviously", "trivial", "clearly wrong"]
+    },
+    {
+      "bias_type": "Vague judgment",
+      "typical_markers": ["weak work", "poorly done", "low quality"]
+    },
+    {
+      "bias_type": "Overfocus on flaws",
+      "typical_markers": ["fatal flaws", "major issues", "severe problems"]
+    },
+    {
+      "bias_type": "Subjectivity",
+      "typical_markers": ["I don't like", "seems bad to me"]
+    },
+    {
+      "bias_type": "Perfectionism",
+      "typical_markers": ["must be flawless", "complete coverage necessary"]
+    },
+    {
+      "bias_type": "Non-essential style focus",
+      "typical_markers": ["phrasing unacceptable", "bad structure"]
+    }
+  ]
+}
+[
+  {
+    "bias_type": "Absolutism",
+    "markers": [
+      "always",
+      "never",
+      "must",
+      "cannot",
+      "everyone",
+      "no one",
+      "completely",
+      "totally",
+      "without exception",
+      "all the time"
+    ]
+  },
+  {
+    "bias_type": "Excessive doubt",
+    "markers": [
+      "unclear if",
+      "no evidence that",
+      "might be",
+      "possibly",
+      "could be",
+      "seems like",
+      "hard to say",
+      "not sure",
+      "difficult to prove",
+      "questionable"
+    ]
+  },
+  {
+    "bias_type": "Negative comparison",
+    "markers": [
+      "unlike others",
+      "fails to",
+      "not as good as",
+      "lacks",
+      "inferior to",
+      "behind compared to",
+      "not meeting standards",
+      "less effective than",
+      "disappointing compared to",
+      "couldn't match"
+    ]
+  },
+  {
+    "bias_type": "Condescending tone",
+    "markers": [
+      "obviously",
+      "trivial",
+      "clearly wrong",
+      "simple mistake",
+      "amateurish",
+      "basic error",
+      "elementary",
+      "ridiculous",
+      "laughable",
+      "childish"
+    ]
+  },
+  {
+    "bias_type": "Vague judgment",
+    "markers": [
+      "weak work",
+      "poorly done",
+      "low quality",
+      "not great",
+      "lacking effort",
+      "subpar",
+      "mediocre",
+      "unsatisfactory",
+      "needs improvement",
+      "below expectations"
+    ]
+  },
+  {
+    "bias_type": "Overfocus on flaws",
+    "markers": [
+      "fatal flaws",
+      "major issues",
+      "severe problems",
+      "critical errors",
+      "big mistakes",
+      "significant shortcomings",
+      "serious defects",
+      "huge gaps",
+      "unacceptable errors",
+      "deal breakers"
+    ]
+  },
+  {
+    "bias_type": "Subjectivity",
+    "markers": [
+      "I don't like",
+      "seems bad to me",
+      "in my opinion",
+      "I feel that",
+      "to me",
+      "I think",
+      "personally",
+      "my view is",
+      "I believe",
+      "my take is"
+    ]
+  },
+  {
+    "bias_type": "Perfectionism",
+    "markers": [
+      "must be flawless",
+      "complete coverage necessary",
+      "no room for error",
+      "perfect execution required",
+      "nothing less than perfect",
+      "absolute precision",
+      "flawless performance",
+      "error-free",
+      "zero tolerance for mistakes",
+      "immaculate"
+    ]
+  },
+  {
+    "bias_type": "Non-essential style focus",
+    "markers": [
+      "phrasing unacceptable",
+      "bad structure",
+      "awkward wording",
+      "poorly phrased",
+      "inconsistent style",
+      "confusing sentences",
+      "awkward flow",
+      "wordy",
+      "lack of clarity in writing",
+      "unprofessional tone"
+    ]
+  }
+]
